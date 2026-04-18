@@ -1,0 +1,125 @@
+﻿Analyzing live_tracking.dart...
+
+  error - live_tracking.dart:26:7 - Missing concrete implementation of 'abstract class State<T extends StatefulWidget> with Diagnosticable.build'. Try implementing the missing method, or make the class abstract. - non_abstract_class_inherits_abstract_member
+  error - live_tracking.dart:230:6 - Expected a class member. Try placing this code inside a class member. - expected_class_member
+  error - live_tracking.dart:230:7 - Expected a class member. Try placing this code inside a class member. - expected_class_member
+  error - live_tracking.dart:232:5 - '_updatePolyline' must have a method body because '_LiveTrackingState' isn't abstract. Try making '_LiveTrackingState' abstract, or adding a body to '_updatePolyline'. - concrete_class_with_abstract_member
+  error - live_tracking.dart:237:64 - Undefined name 'busNumber'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:239:9 - Undefined name 'mounted'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:240:7 - The function 'setState' isn't defined. Try importing the library that defines 'setState', correcting the name to the name of an existing function, or defining a function named 'setState'. - undefined_function
+  error - live_tracking.dart:241:9 - Undefined name '_busIcon'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:242:9 - Undefined name '_stopIcon'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:249:22 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:259:9 - Undefined name 'mounted'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:260:7 - The function 'setState' isn't defined. Try importing the library that defines 'setState', correcting the name to the name of an existing function, or defining a function named 'setState'. - undefined_function
+  error - live_tracking.dart:261:9 - Undefined name '_polylinePoints'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:267:9 - Undefined name '_lastEtaUpdate'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:267:61 - Undefined name '_lastEtaUpdate'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:268:5 - Undefined name '_lastEtaUpdate'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:271:32 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:275:27 - Undefined name '_lastDirection'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:280:25 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:281:13 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:281:41 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:282:92 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:282:110 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:292:25 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:293:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:293:39 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:294:34 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:294:52 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:303:25 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:304:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:304:39 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:307:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:312:103 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:312:121 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:314:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:315:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:316:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:318:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:319:11 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:329:22 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:339:24 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:348:9 - Undefined name 'mounted'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:349:7 - The function 'setState' isn't defined. Try importing the library that defines 'setState', correcting the name to the name of an existing function, or defining a function named 'setState'. - undefined_function
+  error - live_tracking.dart:350:9 - Undefined name 'eta'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:351:9 - Undefined name '_endStopEta'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:351:24 - Undefined name 'endLocation'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:352:9 - Undefined name '_lastUpdateTime'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:356:9 - Undefined name '_notifiedStopName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:356:39 - Undefined name '_hasNotifiedArrival'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:358:11 - Undefined name '_notifiedStopName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:358:32 - Undefined name 'endPoint'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:358:51 - Undefined name 'endLocation'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:360:23 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:360:50 - Undefined name '_notifiedStopName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:363:11 - Undefined name '_hasNotifiedArrival'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:364:89 - Undefined name 'busNumber'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:364:108 - Undefined name '_notifiedStopName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:370:20 - Undefined name '_etaTimer'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:370:41 - Invalid context for 'super' invocation. - super_in_invalid_context
+  error - live_tracking.dart:392:28 - Undefined name 'widget'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:393:19 - Undefined name 'busLocation'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:394:15 - Undefined name '_busIcon'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:399:25 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:400:17 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:405:80 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:406:17 - Undefined name '_stopIcon'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:406:46 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:420:19 - Undefined name '_isRefreshing'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:430:24 - Undefined name '_refreshData'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:438:59 - Undefined name 'busLocation'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:443:25 - Undefined name '_polylinePoints'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:451:33 - Undefined name 'mapController'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:451:52 - Undefined name 'mapReady'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:451:73 - Undefined name '_isTrackingBus'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:451:89 - The function '_focusOnBus' isn't defined. Try importing the library that defines '_focusOnBus', correcting the name to the name of an existing function, or defining a function named '_focusOnBus'. - undefined_function
+  error - live_tracking.dart:452:43 - Undefined name '_isTrackingBus'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:452:59 - The function 'setState' isn't defined. Try importing the library that defines 'setState', correcting the name to the name of an existing function, or defining a function named 'setState'. - undefined_function
+  error - live_tracking.dart:452:74 - Undefined name '_isTrackingBus'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:457:71 - Undefined name '_isTrackingBus'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:457:139 - Undefined name '_isTrackingBus'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:457:201 - Undefined name '_focusOnBus'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:459:132 - Undefined name '_fitEntireRoute'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:471:24 - Undefined name 'busNumber'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:472:24 - Undefined name 'routeName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:475:31 - Undefined name '_lastDirection'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:479:135 - Undefined name 'eta'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:483:19 - Undefined name '_lastUpdateTime'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:496:48 - Undefined name '_lastUpdateTime'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:504:30 - The function 'setState' isn't defined. Try importing the library that defines 'setState', correcting the name to the name of an existing function, or defining a function named 'setState'. - undefined_function
+  error - live_tracking.dart:504:45 - Undefined name '_isPanelExpanded'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:504:65 - Undefined name '_isPanelExpanded'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:507:42 - Undefined name 'startPoint'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:507:56 - Undefined name 'endPoint'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:508:24 - Undefined name '_isPanelExpanded'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:511:19 - Undefined name '_isPanelExpanded'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:517:32 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:519:33 - Undefined name '_stops'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:529:40 - The function '_setNotificationForStop' isn't defined. Try importing the library that defines '_setNotificationForStop', correcting the name to the name of an existing function, or defining a function named '_setNotificationForStop'. - undefined_function
+  error - live_tracking.dart:534:31 - Undefined name '_notifiedStopName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:536:38 - Undefined name '_notifiedStopName'. Try correcting the name to one that is defined, or defining the name. - undefined_identifier
+  error - live_tracking.dart:551:1 - Expected a method, getter, setter or operator declaration. This appears to be incomplete code. Try removing it or completing it. - expected_executable
+warning - live_tracking.dart:42:11 - The value of the field '_endStopEta' isn't used. Try removing the field, or using it. - unused_field
+warning - live_tracking.dart:54:8 - The declaration '_focusOnBus' isn't referenced. Try removing the declaration of '_focusOnBus'. - unused_element
+warning - live_tracking.dart:61:8 - The declaration '_fitEntireRoute' isn't referenced. Try removing the declaration of '_fitEntireRoute'. - unused_element
+warning - live_tracking.dart:85:8 - The declaration '_setNotificationForStop' isn't referenced. Try removing the declaration of '_setNotificationForStop'. - unused_element
+warning - live_tracking.dart:100:16 - The declaration '_refreshData' isn't referenced. Try removing the declaration of '_refreshData'. - unused_element
+warning - live_tracking.dart:143:20 - Unnecessary cast. Try removing the cast. - unnecessary_cast
+warning - live_tracking.dart:232:5 - The declaration '_updatePolyline' isn't referenced. Try removing the declaration of '_updatePolyline'. - unused_element
+warning - live_tracking.dart:247:16 - The declaration '_updatePolyline' isn't referenced. Try removing the declaration of '_updatePolyline'. - unused_element
+warning - live_tracking.dart:275:16 - The value of the local variable 'isReturn' isn't used. Try removing the variable or using it. - unused_local_variable
+   info - live_tracking.dart:32:16 - The private field _polylinePoints could be 'final'. Try making the field 'final'. - prefer_final_fields
+   info - live_tracking.dart:41:8 - The private field _isPanelExpanded could be 'final'. Try making the field 'final'. - prefer_final_fields
+   info - live_tracking.dart:114:28 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - live_tracking.dart:118:28 - Don't use 'BuildContext's across async gaps. Try rewriting the code to not use the 'BuildContext', or guard the use with a 'mounted' check. - use_build_context_synchronously
+   info - live_tracking.dart:358:42 - Statements in an if should be enclosed in a block. Try wrapping the statement in a block. - curly_braces_in_flow_control_structures
+   info - live_tracking.dart:395:9 - 'zIndex' is deprecated and shouldn't be used. Use zIndexInt instead. On some platforms zIndex is truncated to an int, which can lead to incorrect/unstable ordering. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - live_tracking.dart:465:143 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - live_tracking.dart:472:91 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - live_tracking.dart:474:144 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - live_tracking.dart:478:111 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+   info - live_tracking.dart:487:40 - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss. Try replacing the use of the deprecated member with the replacement. - deprecated_member_use
+
+121 issues found.

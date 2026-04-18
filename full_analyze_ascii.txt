@@ -1,0 +1,104 @@
+Analyzing collbus...                                            
+
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:100:29 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\admin\admin_home.dart:101:29 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:111:24 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\admin_home.dart:262:24 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\admin_home.dart:264:43 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:359:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:361:24 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_announcements.dart:61:44 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\admin\manage_announcements.dart:70:17 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\admin\manage_announcements.dart:71:29 - prefer_const_literals_to_create_immutables
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_announcements.dart:158:62 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_buses.dart:303:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_buses.dart:317:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_drivers.dart:306:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_drivers.dart:319:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_drivers.dart:440:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:326:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:578:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:591:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:737:44 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\admin\manage_routes.dart:772:18 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:778:66 - deprecated_member_use
+   info - Don't use 'BuildContext's across async gaps - lib\admin\manage_stops.dart:223:29 - use_build_context_synchronously
+warning - The declaration '_findNearestPolylineIndex' isn't referenced - lib\admin\manage_stops.dart:258:7 - unused_element
+   info - Use 'const' with the constructor to improve performance - lib\admin\manage_stops.dart:509:33 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_stops.dart:536:59 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_stops.dart:548:66 - deprecated_member_use
+   info - Unnecessary braces in a string interpolation - lib\admin\trip_history.dart:116:34 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\admin\trip_history.dart:116:44 - unnecessary_brace_in_string_interps
+   info - Unnecessary braces in a string interpolation - lib\admin\trip_history.dart:118:34 - unnecessary_brace_in_string_interps
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:127:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:140:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:151:91 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:158:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:184:64 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:184:102 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\trip_history.dart:203:90 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\auth\login_screen.dart:161:29 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\auth\login_screen.dart:162:29 - prefer_const_literals_to_create_immutables
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\login_screen.dart:305:60 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\auth\splash_screen.dart:72:21 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\auth\splash_screen.dart:73:21 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\auth\splash_screen.dart:74:21 - prefer_const_literals_to_create_immutables
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\splash_screen.dart:91:52 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\auth\student_signup_screen.dart:103:29 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\auth\student_signup_screen.dart:104:29 - prefer_const_literals_to_create_immutables
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\student_signup_screen.dart:111:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\student_signup_screen.dart:122:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\student_signup_screen.dart:124:64 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\student_signup_screen.dart:137:60 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\student_signup_screen.dart:205:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\auth\student_signup_screen.dart:217:61 - deprecated_member_use
+warning - Unused import: '../services/api_service.dart' - lib\driver\driver_home.dart:11:8 - unused_import
+warning - Unused import: '../services/notification_service.dart' - lib\driver\driver_home.dart:12:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:699:34 - deprecated_member_use
+warning - Unnecessary type check; the result is always 'true' - lib\driver\driver_home.dart:719:11 - unnecessary_type_check
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:824:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:926:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:972:89 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:991:56 - deprecated_member_use
+warning - The value of the local variable 'status' isn't used - lib\driver\driver_home.dart:1030:31 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1089:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1134:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1206:30 - deprecated_member_use
+  error - The named parameter 'cap' isn't defined - lib\driver\driver_home.dart:1214:11 - undefined_named_parameter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1247:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1274:59 - deprecated_member_use
+   info - Use 'const' for final variables initialized to a constant value - lib\services\api_service.dart:31:5 - prefer_const_declarations
+warning - Unused import: 'package:shared_preferences/shared_preferences.dart' - lib\services\google_maps_service.dart:5:8 - unused_import
+warning - Unused import: '../core/theme.dart' - lib\services\notification_service.dart:2:8 - unused_import
+warning - The value of the field '_endStopEta' isn't used - lib\student\live_tracking.dart:42:11 - unused_field
+   info - Don't use 'BuildContext's across async gaps - lib\student\live_tracking.dart:114:28 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\student\live_tracking.dart:118:28 - use_build_context_synchronously
+warning - Unnecessary cast - lib\student\live_tracking.dart:143:20 - unnecessary_cast
+warning - The value of the local variable 'isFromCollege' isn't used - lib\student\live_tracking.dart:204:16 - unused_local_variable
+warning - The value of the local variable 'isReturn' isn't used - lib\student\live_tracking.dart:289:16 - unused_local_variable
+   info - Statements in an if should be enclosed in a block - lib\student\live_tracking.dart:372:42 - curly_braces_in_flow_control_structures
+   info - 'zIndex' is deprecated and shouldn't be used. Use zIndexInt instead. On some platforms zIndex is truncated to an int, which can lead to incorrect/unstable ordering - lib\student\live_tracking.dart:409:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:479:143 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:486:91 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:488:144 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:507:111 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:516:40 - deprecated_member_use
+warning - The value of the field '_mapController' isn't used - lib\student\student_home.dart:26:28 - unused_field
+warning - The value of the field '_selectedBus' isn't used - lib\student\student_home.dart:38:21 - unused_field
+warning - Unnecessary cast - lib\student\student_home.dart:109:22 - unnecessary_cast
+   info - Use 'const' with the constructor to improve performance - lib\student\student_home.dart:183:56 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\student\student_home.dart:183:70 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\student\student_home.dart:183:113 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\student\student_home.dart:228:18 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\student\student_home.dart:229:23 - prefer_const_literals_to_create_immutables
+warning - Unnecessary cast - lib\student\student_home.dart:277:25 - unnecessary_cast
+   info - Use 'const' with the constructor to improve performance - lib\student\student_home.dart:609:43 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\student\student_home.dart:611:55 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\student\student_home.dart:612:47 - prefer_const_constructors
+warning - The declaration '_BusRouteSubtitle' isn't referenced - lib\student\student_home.dart:650:7 - unused_element
+warning - A value for optional parameter 'routeId' isn't ever given - lib\student\student_home.dart:652:33 - unused_element_parameter
+warning - Unused import: '../core/constants.dart' - lib\widgets\menu_dialogs.dart:3:8 - unused_import
+   info - Use 'const' with the constructor to improve performance - lib\widgets\menu_dialogs.dart:11:16 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\widgets\menu_dialogs.dart:46:18 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\widgets\menu_dialogs.dart:47:18 - prefer_const_constructors
+

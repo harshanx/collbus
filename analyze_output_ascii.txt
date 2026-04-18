@@ -1,0 +1,18 @@
+Analyzing driver_home.dart...                                   
+
+warning - Unused import: '../services/api_service.dart' - lib\driver\driver_home.dart:11:8 - unused_import
+warning - Unused import: '../services/notification_service.dart' - lib\driver\driver_home.dart:12:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:699:34 - deprecated_member_use
+warning - Unnecessary type check; the result is always 'true' - lib\driver\driver_home.dart:719:11 - unnecessary_type_check
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:824:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:926:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:972:89 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:991:56 - deprecated_member_use
+warning - The value of the local variable 'status' isn't used - lib\driver\driver_home.dart:1030:31 - unused_local_variable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1089:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1134:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1207:30 - deprecated_member_use
+  error - The named parameter 'cap' isn't defined - lib\driver\driver_home.dart:1215:11 - undefined_named_parameter
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1248:41 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\driver\driver_home.dart:1275:59 - deprecated_member_use
+

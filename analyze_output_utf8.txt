@@ -1,0 +1,59 @@
+﻿Analyzing collbus...                                            
+
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:61:29 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\admin\admin_home.dart:62:29 - prefer_const_literals_to_create_immutables
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:72:24 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:244:15 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\admin\admin_home.dart:246:24 - prefer_const_constructors
+   info - The imported package 'intl' isn't a dependency of the importing package - lib\admin\manage_announcements.dart:3:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:intl/intl.dart' - lib\admin\manage_announcements.dart:3:8 - uri_does_not_exist
+  error - The method 'DateFormat' isn't defined for the type '_ManageAnnouncementsState' - lib\admin\manage_announcements.dart:114:39 - undefined_method
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_announcements.dart:124:62 - deprecated_member_use
+warning - Unused import: 'manage_stops.dart' - lib\admin\manage_buses.dart:6:8 - unused_import
+warning - The '!' will have no effect because the receiver can't be null - lib\admin\manage_buses.dart:22:76 - unnecessary_non_null_assertion
+warning - The '!' will have no effect because the receiver can't be null - lib\admin\manage_buses.dart:23:80 - unnecessary_non_null_assertion
+   info - Use 'const' with the constructor to improve performance - lib\admin\manage_buses.dart:94:29 - prefer_const_constructors
+   info - Don't use 'BuildContext's across async gaps, guarded by an unrelated 'mounted' check - lib\admin\manage_buses.dart:118:52 - use_build_context_synchronously
+   info - Don't use 'BuildContext's across async gaps - lib\admin\manage_buses.dart:141:7 - use_build_context_synchronously
+   info - Use 'const' with the constructor to improve performance - lib\admin\manage_buses.dart:226:25 - prefer_const_constructors
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_buses.dart:294:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_buses.dart:308:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_drivers.dart:306:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_drivers.dart:319:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_drivers.dart:440:42 - deprecated_member_use
+warning - Unused import: 'package:geolocator/geolocator.dart' - lib\admin\manage_routes.dart:3:8 - unused_import
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:302:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:527:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:540:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:686:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\admin\manage_routes.dart:727:66 - deprecated_member_use
+   info - Use 'const' with the constructor to improve performance - lib\admin\manage_stops.dart:376:33 - prefer_const_constructors
+   info - Use 'const' with the constructor to improve performance - lib\auth\login_screen.dart:155:29 - prefer_const_constructors
+   info - Use 'const' literals as arguments to constructors of '@immutable' classes - lib\auth\login_screen.dart:156:29 - prefer_const_literals_to_create_immutables
+warning - The operand can't be 'null', so the condition is always 'false' - lib\auth\student_signup_screen.dart:42:28 - unnecessary_null_comparison
+warning - The value of the local variable 'messenger' isn't used - lib\driver\driver_home.dart:263:21 - unused_local_variable
+warning - Duplicate import - lib\main.dart:13:8 - duplicate_import
+   info - Use 'const' for final variables initialized to a constant value - lib\services\api_service.dart:31:5 - prefer_const_declarations
+   info - The import of 'package:flutter/foundation.dart' is unnecessary because all of the used elements are also provided by the import of 'package:flutter/material.dart' - lib\services\google_maps_service.dart:4:8 - unnecessary_import
+warning - Unused import: '../core/constants.dart' - lib\services\google_maps_service.dart:8:8 - unused_import
+   info - 'fromBytes' is deprecated and shouldn't be used. Use BitmapDescriptor.bytes method instead - lib\services\google_maps_service.dart:35:29 - deprecated_member_use
+warning - Unused import: 'package:flutter/material.dart' - lib\services\notification_service.dart:2:8 - unused_import
+  error - The named parameter 'settings' is required, but there's no corresponding argument - lib\services\notification_service.dart:25:32 - missing_required_argument
+  error - Too many positional arguments: 0 expected, but 1 found - lib\services\notification_service.dart:26:7 - extra_positional_arguments_could_be_named
+  error - The named parameter 'id' is required, but there's no corresponding argument - lib\services\notification_service.dart:61:32 - missing_required_argument
+  error - Too many positional arguments: 0 expected, but 4 found - lib\services\notification_service.dart:62:7 - extra_positional_arguments_could_be_named
+warning - Unused import: '../core/constants.dart' - lib\student\live_tracking.dart:6:8 - unused_import
+warning - Unnecessary cast - lib\student\live_tracking.dart:79:20 - unnecessary_cast
+   info - 'zIndex' is deprecated and shouldn't be used. Use zIndexInt instead. On some platforms zIndex is truncated to an int, which can lead to incorrect/unstable ordering - lib\student\live_tracking.dart:275:9 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:353:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:363:76 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\student\live_tracking.dart:379:76 - deprecated_member_use
+   info - Unnecessary use of 'toList' in a spread - lib\student\live_tracking.dart:486:30 - unnecessary_to_list_in_spreads
+   info - The imported package 'intl' isn't a dependency of the importing package - lib\student\student_home.dart:14:8 - depend_on_referenced_packages
+  error - Target of URI doesn't exist: 'package:intl/intl.dart' - lib\student\student_home.dart:14:8 - uri_does_not_exist
+warning - The value of the field '_mapController' isn't used - lib\student\student_home.dart:24:28 - unused_field
+warning - The value of the field '_selectedBus' isn't used - lib\student\student_home.dart:33:21 - unused_field
+warning - Unnecessary cast - lib\student\student_home.dart:74:22 - unnecessary_cast
+  error - The method 'DateFormat' isn't defined for the type '_StudentHomeState' - lib\student\student_home.dart:153:66 - undefined_method
+warning - Unnecessary cast - lib\student\student_home.dart:197:25 - unnecessary_cast
+

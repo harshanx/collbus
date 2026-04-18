@@ -1,0 +1,47 @@
+{
+    "project_info": {
+        "project_number": "1084098043004",
+        "project_id": "collbus-84946",
+        "storage_bucket": "collbus-84946.firebasestorage.app"
+    },
+    "client": [
+        {
+            "client_info": {
+                "mobilesdk_app_id": "1:1084098043004:android:f57a1b1f13973afc0efdf9",
+                "android_client_info": {
+                    "package_name": "com.example.collbus"
+                }
+            },
+            "oauth_client": [
+                {
+                    "client_id": "1084098043004-s6lh1v3nop5cg2i4mhgmgj3sfi5nfko5.apps.googleusercontent.com",
+                    "client_type": 1,
+                    "android_info": {
+                        "package_name": "com.example.collbus",
+                        "certificate_hash": "929f8fbfcf49bab3bb391627cd1aec27bcbd1f76"
+                    }
+                },
+                {
+                    "client_id": "1084098043004-ffn2g82532biksk3tit9upuhl4u0tv69.apps.googleusercontent.com",
+                    "client_type": 3
+                }
+            ],
+            "api_key": [
+                {
+                    "current_key": "AIzaSyC2m5IBYMH8sqny3SlgI0kgC2JTxmDQ69E"
+                }
+            ],
+            "services": {
+                "appinvite_service": {
+                    "other_platform_oauth_client": [
+                        {
+                            "client_id": "1084098043004-ffn2g82532biksk3tit9upuhl4u0tv69.apps.googleusercontent.com",
+                            "client_type": 3
+                        }
+                    ]
+                }
+            }
+        }
+    ],
+    "configuration_version": "1"
+}
